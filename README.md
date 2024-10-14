@@ -2,6 +2,7 @@
 
 pythonで書かれた関数の処理時間を計測します。
 
+
 ・getPerformanceTime(function, function_arg)
 
 単一の関数の処理時間を計測します。引数に、計測したい関数とその関数の引数を入れてください。
